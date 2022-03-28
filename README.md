@@ -2,6 +2,8 @@
 ### Problem Statement:- 
 * This dataset includes details of applicants who have applied for loan. The dataset includes details like credit history, loan amount, their income, dependents etc.
 
+<img src = "loan.jpg" style = "width:400px;height:300px"/>
+
 ### The Data
 Variable      :-        	Description
 
